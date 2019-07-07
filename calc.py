@@ -4,13 +4,14 @@ def add(x,y):
 def subtract(x,y):
     pass
 def multiply(x,y):
-    return x*y
+    echo "x*y"
+    pass
 test
 IIIIIII
 
 def divide(x,y):
     return x/y
-
+    pass
 
 def square(x,y):
     pass
